@@ -1,0 +1,2 @@
+1) a) Não compila. Porque o tipo 'string' não pode ser atribuido
+ao tipo 'number'.

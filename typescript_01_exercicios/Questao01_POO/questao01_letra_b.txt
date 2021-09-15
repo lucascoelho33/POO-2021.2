@@ -1,0 +1,2 @@
+1) b) Compila, pois declarando uma variável como tipo ANY 
+podemos atribuir qualquer valor a ela.
